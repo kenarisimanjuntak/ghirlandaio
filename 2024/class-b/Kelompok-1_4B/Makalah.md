@@ -75,7 +75,7 @@ berdasarkan dua metodologis yang telah disebutkan bahwa perbedaan antara sains d
 
 **D. Analisa Mendalam terhadap Konflik**
   
-  Konflik antara sains dan agama merupakan suatu konflik persaingan tentang perebutan makna dan kekuasaan. Harari menjelaskan bahwa agama memiliki fungsi sebagai sebagai sistem hukum 
+  Konflik antara sains dan agama merupakan suatu konflik persaingan tentang perebutan kekuasaan untuk mengatur perilaku manusia. Dimana agama memiliki fungsi sebagai sistem hukum moral yang menciptakan keteraturan sosial, sedangkan sains merupakan alat yang memberikan kekuatan. Dari hal itu lah terjadi suatu hubungan yang fungsional, dimana agama perlu sains untuk mewujudkan nilai-nilainya dalam dunia nyata dan sains juga membutuhkan agama untuk menentukan tujuan akhirnya karena sains tidak memiliki kekuasaan untuk apa yang bisa seharusnya dilakukan dengan kekuatannya. 
    
 # **BAB III** **PENUTUP**
 
