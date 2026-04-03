@@ -7,13 +7,13 @@ NIM: 12402051030042
 Selama ini, manusia menganggap teknologi yang ada sebagai sebuah alat, padahal kenyataannya manusia hanya tahu untuk menghasilkan 
 sesuatu menggunakan teknologi yang mereka juga tidak tahu bagaimana cara tekonologi itu bekerja, padahal pada kenyataannya jika 
 manusia menggunakan teknologi tapi tidak tahu bagaimana hal itu bekerja, manusia bukan menggunakan teknologi sebagai alat, tapi 
-sebagai mitos. Teknologi bisa dikatakan alat ketika manusia mengetahui bagaimana teknologi itu bekerja
+sebagai mitos. Teknologi bisa dikatakan alat ketika manusia mengetahui bagaimana teknologi itu bekerja.
 Metode yang saya gunakan adalah Literasi dari buku Homodeus dan juga PPT dari pemateri.
 
 Dalam buku homodeus halaman 11-13 menjelaskan bagaimana manusia meelihat teknologi sebagai alat, mengapa dikatakan mereka melihat
 teknologi sebagai alat? dikarenakan mereka menggunakan teknologi itu untuk mengatasi hal yang sudah mereka teliti kemudian mereka 
-tau bagaimana hal itu berjalan. Hal ini merupakan titik dimana manusia memahami "bagaimana dunia ini bekerja" kemudian mereka 
-menggunakan pengetahuan itu untuk memperbaiki keadaan, contohnya yaitu mengatasi wabah yang dimana mereka mengetahui dan memahami
+tau bagaimana hal itu berjalan. Hal ini merupakan titik dimana manusia memahami "bagaimana dunia ini bekerja" yang dimana mereka 
+menggunakan pengetahuan itu untuk memperbaiki keadaan, contohnya yaitu mengatasi wabah, mereka mengetahui dan memahami
 mekanisme dari virus yang sedang terjadi, disini teknologi sebagai alat yang membantu manusia bertahan, sedangkan pada halaman 
 205-207 harari membahas bagaimana teknologi sebagai mitos agar berfungsi di masyarakat. Dengan mitos ini manusia mungkin berpikir 
 apa yang harus dilakukan dengan hal itu. Teknologi menjadi mitos ketika dia tidak lagi hanya sekedar membantu kita bekerja seperti 
