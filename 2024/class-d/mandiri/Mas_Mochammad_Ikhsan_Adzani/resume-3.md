@@ -14,5 +14,6 @@ Pemikiran Adam Smith yang menuntut agar negara keluar dari campur tangan ekonomi
 
 - Bukti : "The invention of all those machines by which labour is so much facilitated and abridged, seems to have been originally owing to the division of labour." Artinya, penemuan mesin-mesin yang memfasilitasi tenega kerja pada dasarnya berutang pada pembagian kejra yang didikte oleh pasar bebas. (Smith, Adam. "The Wealth of Nations", Bab I, Hal. 15).
 
+Lalu, Mengapa saya tidak setuju jika inovasi hanya disetir oleh mekanisme pasar ala Adam Smith? karena menundukan sains dibawah ketiak pasar bebas sama saja dengan menciptakan "teknologi tanpa moral". Inovasi yang murni didorong oleh efisiensi pasar, pada akhirnya hanya akan menciptakan keterasingan. Alih-alih membebaskan manusia, teknologi pasar bebas justru menjebak manusia menjadi "sekrup" dalam mesin industri yang bekerja tanpa disadari, dimana keuntungan hanya mengalir ke segelintir korporat.
 
-Konsep pasar bebas yang ditekankan oleh Adam Smith terbikti masih relevean, di mana prinsip kebebasan bersaing memicu pembagian kerja yangberujung langsung pada keharusan melakukan perkembangan dan inovasi teknologi modern 
+- Bukti : 
