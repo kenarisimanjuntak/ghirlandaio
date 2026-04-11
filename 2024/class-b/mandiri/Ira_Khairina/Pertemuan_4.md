@@ -11,3 +11,5 @@ Pada awalnya, *hacking* dilakukan demi kesenangan dalam memahami cara kerja tekn
 
 Para peretas (troublemakers) yang ada di dalam buku ini merupakan kumpulan individu yang enggan mengikuti instruksi dari perusahaan besar dan melakukan hal baru dengan lebih informal. Fokus peretasan mereka berfokus pada pengembangan teknologi seperti *video game* dan ARPANET (Advanced Research Projects Agency Network) yang merupakan jaringan komputer pertama di dunia. Salah satu contoh penggunaan *hacking* untuk pengembangan teknologi yaitu ada seorang pria bernama Al Alcorn yang meretas sebuah TV, yang dimana awalnya TV ini hanya digunakan untuk menonton berita, berubah menjadi alat untuk bermain game. 
 
+## PENUTUP
+### Kesimpulan
