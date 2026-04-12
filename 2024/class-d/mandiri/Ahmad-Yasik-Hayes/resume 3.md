@@ -1,1 +1,3 @@
-
+# Apa perbedaan utama antara open source dan closed source dalam hal akses dan penggunaan kode? #
+# Pendahuluan #
+Dalam era digital saat ini, perangkat lunak atau software memegang peran penting dalam kehidupan saat ini, mulai dari pendidikan hingga industri. Salah satu cara mengelompokkan perangkat lunak adalah berdasarkan keterbukaan kode sumbernya, yaitu open source dan closed source. Mari kita ambil contoh seperti Linux yang merupakan program open source yang dimana pengguna bisa mengakses dan memodifikasi kode secara bebas, disisi lain ada Windows yang merupakan program closed source yang bersifat tertutup karena pengguna tidak diberi akses langsung untuk memodefikasi kode didalamnya. perbedaan hal ini memengaruhi fleksibelitas dan cara penggunaan perangkat lunak. oleh karena itu, penting untuk memahami perbedaan utama anatara open source dan closed source, khususnya dalam hal akses dan penggunaan kode.
